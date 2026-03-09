@@ -3,5 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/mi-fixture-online/', 
+  // Ajustado al nombre real de tu repositorio para evitar el error 404
+  base: '/FIXTURE/', 
 })
